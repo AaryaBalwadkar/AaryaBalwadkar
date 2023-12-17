@@ -33,3 +33,5 @@ src="https://img.shields.io/github/followers/AaryaBalwadkar?logo=github&style=fo
 <a href="http://www.github.com/AaryaBalwadkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaBalwadkar&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/AaryaBalwadkar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBalwadkar&langs_count=10&title_color=3382ed&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![An image of @aarya_balwadkar_2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aarya_balwadkar_2005)](https://holopin.io/@aarya_balwadkar_2005)
