@@ -1,0 +1,37 @@
+name: Update Pinned Projects Showcase
+
+on:
+  schedule:
+    # Runs daily at 03:00 UTC, offset from the activity workflow.
+    - cron: '0 3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Build project showcase
+        env:
+          GH_USERNAME: AaryaBalwadkar
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_projects.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update pinned projects showcase"
+          file_pattern: README.md
