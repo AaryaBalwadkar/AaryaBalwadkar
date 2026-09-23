@@ -41,7 +41,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/aditisharmas11/Devops-Lab-L1_2023-27/pull/102) in [aditisharmas11/Devops-Lab-L1_2023-27](https://github.com/aditisharmas11/Devops-Lab-L1_2023-27)
+1. 🚀 Published release [adc-model](https://github.com/AaryaBalwadkar/agricnxedge-web/releases/tag/model-v1) in [AaryaBalwadkar/agricnxedge-web](https://github.com/AaryaBalwadkar/agricnxedge-web)
 <!--END_SECTION:activity-->
 
 <br>
