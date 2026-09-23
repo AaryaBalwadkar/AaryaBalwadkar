@@ -49,7 +49,14 @@
 ## Pinned Projects Showcase
 
 <!--START_SECTION:projects-->
-<!-- This section is auto-updated daily by .github/workflows/projects.yml -->
+| Project | Description | Language | ⭐ Stars | Last Updated |
+|---|---|---|---|---|
+| [agricnxedge-web](https://github.com/AaryaBalwadkar/agricnxedge-web) | No description provided. | Python | 0 | Sep 22, 2026 |
+| [realtime-iot-telemetry](https://github.com/AaryaBalwadkar/realtime-iot-telemetry) | An end-to-end, containerized IoT sensor telemetry pipeline processing real-time data with Apache Kafka, PySpark, MinIO, PostgreSQL, and Grafana. | Python | 0 | Sep 22, 2026 |
+| [Agri-CNX-Edge](https://github.com/AaryaBalwadkar/Agri-CNX-Edge) | Edge AI for Apple Crop Health | Python | 0 | Sep 21, 2026 |
+| [my-git-practice](https://github.com/AaryaBalwadkar/my-git-practice) | No description provided. | Python | 0 | Jul 22, 2026 |
+| [MyWebsite](https://github.com/AaryaBalwadkar/MyWebsite) | No description provided. | HTML | 0 | Jul 17, 2026 |
+| [volstory](https://github.com/AaryaBalwadkar/volstory) | No description provided. | TypeScript | 0 | May 04, 2026 |
 <!--END_SECTION:projects-->
 
 <br>
