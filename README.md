@@ -95,10 +95,10 @@
 ### Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AaryaBalwadkar&show_icons=true&hide_border=true&count_private=true&title_color=f97316&text_color=c9d1d9&icon_color=f97316&bg_color=0d1117" alt="stats" />
+  <img height="150" src="https://github-readme-stats.shion.dev/api?username=AaryaBalwadkar&show_icons=true&hide_border=true&count_private=true&title_color=f97316&text_color=c9d1d9&icon_color=f97316&bg_color=0d1117" alt="stats" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaBalwadkar&background=0d1117&ring=f97316&fire=f97316&currStreakNum=f97316&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBalwadkar&layout=compact&langs_count=8&title_color=f97316&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AaryaBalwadkar&layout=compact&langs_count=8&title_color=f97316&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="top languages" />
   <br/><br/>
   <!-- Contribution snake: generated daily by .github/workflows/snake.yml -->
   <picture>
