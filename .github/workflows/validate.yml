@@ -1,0 +1,31 @@
+name: Validate Profile README
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Check README markers and links
+        run: python .github/scripts/validate_readme.py
+
+      - name: Validate SVGs are well-formed XML
+        run: python -c "import glob, xml.etree.ElementTree as ET; files=glob.glob('assets/*.svg'); assert files, 'no SVGs found'; [ET.parse(f) for f in files]; print(f'OK: {len(files)} SVG(s) valid')"

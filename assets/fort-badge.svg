@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- App badge background -->
+  <rect width="64" height="64" rx="14" fill="#0a0e1a"/>
+  <!-- Fort crenellations (merlons) - 3 teeth, flat saffron -->
+  <rect x="10" y="14" width="10" height="9" rx="1.5" fill="#f97316"/>
+  <rect x="27" y="10" width="10" height="13" rx="1.5" fill="#f97316"/>
+  <rect x="44" y="14" width="10" height="9" rx="1.5" fill="#f97316"/>
+  <!-- Horizontal wall connecting merlons -->
+  <rect x="10" y="23" width="44" height="3" fill="#f97316"/>
+  <!-- Main fort wall body -->
+  <rect x="10" y="26" width="44" height="22" rx="1" fill="#f97316"/>
+  <!-- Gateway arch (cut-out) -->
+  <rect x="25" y="36" width="14" height="12" rx="3" fill="#0a0e1a"/>
+</svg>
