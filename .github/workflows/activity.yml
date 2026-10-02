@@ -2,8 +2,8 @@ name: Update Recent Activity
 
 on:
   schedule:
-    # Runs daily at 00:00 UTC.
-    - cron: '0 0 * * *'
+    # Runs weekly on Monday at 00:00 UTC.
+    - cron: '0 0 * * MON'
   workflow_dispatch: {}
 
 permissions:
