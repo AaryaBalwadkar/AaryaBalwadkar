@@ -1,9 +1,12 @@
 <div align="center">
 
-  <img src="assets/journey-banner.svg" alt="Aarya Balwadkar — Frontend Developer, Python, Edge AI and IoT" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/journey-banner.svg" />
+    <img src="assets/journey-banner-light.svg" alt="Aarya Balwadkar — Frontend Developer, Python, Edge AI and IoT" />
+  </picture>
 
   <h1>Hi, I'm Aarya 👋</h1>
-  <p>Frontend Developer · Python Programmer · based in Pune, India</p>
+  <p>Frontend Developer · Python Programmer</p>
   <p><i>Edge AI systems, real-time IoT pipelines &amp; web experiences people actually use.</i></p>
 
   <p>
@@ -33,7 +36,7 @@
 </details>
 
 <details>
-<summary><sub>All projects (auto-updated daily)</sub></summary>
+<summary><sub>All projects (auto-updated weekly)</sub></summary>
 <br/>
 
 <!--START_SECTION:projects-->
@@ -87,7 +90,10 @@
 ### Stack
 
 <div align="center">
-  <img width="720" src="https://go-skill-icons.vercel.app/api/icons?i=py,ts,js,java,kotlin,c,cpp,cs,html,css,matlab,react,vite,tailwind,bootstrap,nodejs,express,django,flask,fastapi,mongodb,mysql,postgres,sqlite,graphql,redis,nginx,kafka,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,github,githubactions,vscode,linux,bash,npm,postman,grafana,aws,vercel,figma,arduino,expo,hadoop,spark,socketio,leaflet&theme=dark" alt="stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=py,ts,js,java,kotlin,c,cpp,cs,html,css,matlab,react,vite,tailwind,bootstrap,nodejs,express,django,flask,fastapi,mongodb,mysql,postgres,sqlite,graphql,redis,nginx,kafka,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,github,githubactions,vscode,linux,bash,npm,postman,grafana,aws,vercel,figma,arduino,expo,hadoop,spark,socketio,leaflet&theme=dark" />
+    <img width="720" src="https://go-skill-icons.vercel.app/api/icons?i=py,ts,js,java,kotlin,c,cpp,cs,html,css,matlab,react,vite,tailwind,bootstrap,nodejs,express,django,flask,fastapi,mongodb,mysql,postgres,sqlite,graphql,redis,nginx,kafka,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,github,githubactions,vscode,linux,bash,npm,postman,grafana,aws,vercel,figma,arduino,expo,hadoop,spark,socketio,leaflet&theme=light" alt="stack" />
+  </picture>
 </div>
 
 ---
@@ -95,14 +101,24 @@
 ### Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.shion.dev/api?username=AaryaBalwadkar&show_icons=true&hide_border=true&count_private=true&title_color=f97316&text_color=c9d1d9&icon_color=f97316&bg_color=0d1117" alt="stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaBalwadkar&background=0d1117&ring=f97316&fire=f97316&currStreakNum=f97316&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=AaryaBalwadkar&show_icons=true&hide_border=true&count_private=true&title_color=f97316&text_color=c9d1d9&icon_color=f97316&bg_color=0d1117" />
+    <img height="150" src="https://github-readme-stats.shion.dev/api?username=AaryaBalwadkar&show_icons=true&hide_border=true&count_private=true&title_color=f97316&text_color=24292f&icon_color=f97316&bg_color=ffffff" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AaryaBalwadkar&background=0d1117&ring=f97316&fire=f97316&currStreakNum=f97316&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaBalwadkar&background=ffffff&ring=f97316&fire=f97316&currStreakNum=f97316&sideNums=24292f&sideLabels=24292f&dates=6e7681&hide_border=true" alt="streak" />
+  </picture>
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AaryaBalwadkar&layout=compact&langs_count=8&title_color=f97316&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=AaryaBalwadkar&layout=compact&langs_count=8&title_color=f97316&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AaryaBalwadkar&layout=compact&langs_count=8&title_color=f97316&text_color=24292f&bg_color=ffffff&hide_border=true" alt="top languages" />
+  </picture>
   <br/><br/>
-  <!-- Contribution snake: generated daily by .github/workflows/snake.yml -->
+  <!-- Contribution snake: generated weekly by .github/workflows/snake.yml -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
     <img src="assets/github-snake.svg" alt="Contribution snake" />
   </picture>
 </div>
