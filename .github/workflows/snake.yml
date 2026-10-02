@@ -19,13 +19,13 @@ concurrency:
 
 jobs:
   snake:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
 
       - name: Generate snake animation
-        uses: Platane/snk@v0.2.0
+        uses: Platane/snk@v3
         with:
           github_user_name: AaryaBalwadkar
           outputs: |
