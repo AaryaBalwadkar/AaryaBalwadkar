@@ -42,7 +42,7 @@
 <!--START_SECTION:projects-->
 | Project | Description | Language | ⭐ Stars | Updated |
 |---|---|---|---|---|
-| [crop-health-mlops](https://github.com/AaryaBalwadkar/crop-health-mlops) | MLOps crop-health inference: FastAPI + ONNX, React, Docker, K8s, Prometheus, Ansible, GCP | Python | 0 | Sep 27, 2026 |
+| [crop-health-mlops](https://github.com/AaryaBalwadkar/crop-health-mlops) | MLOps crop-health inference: FastAPI + ONNX, React, Docker, K8s, Prometheus, Ansible, GCP | Python | 0 | Oct 01, 2026 |
 | [agricnxedge-web](https://github.com/AaryaBalwadkar/agricnxedge-web) | Web frontend for Agri-CNX-Edge (v2) — crop-health dashboard + inference UI. | Python | 0 | Sep 22, 2026 |
 | [Agri-CNX-Edge](https://github.com/AaryaBalwadkar/Agri-CNX-Edge) | Edge AI for Apple Crop Health | Python | 0 | Sep 21, 2026 |
 | [realtime-iot-telemetry](https://github.com/AaryaBalwadkar/realtime-iot-telemetry) | An end-to-end, containerized IoT sensor telemetry pipeline processing real-time data with Apache... | Python | 0 | Sep 22, 2026 |
@@ -50,7 +50,7 @@
 | [volstory](https://github.com/AaryaBalwadkar/volstory) | Volunteer stories platform (TypeScript). | TypeScript | 0 | Sep 29, 2026 |
 | [my-git-practice](https://github.com/AaryaBalwadkar/my-git-practice) | Git practice playground — branching, merges and rebases. | Python | 0 | Jul 22, 2026 |
 | [MyWebsite](https://github.com/AaryaBalwadkar/MyWebsite) | Personal portfolio website. | HTML | 0 | Jul 17, 2026 |
-<sub>Auto-updated Oct 01, 2026 · featured first, then most recently pushed</sub>
+<sub>Auto-updated Oct 05, 2026 · featured first, then most recently pushed</sub>
 <!--END_SECTION:projects-->
 
 </details>
