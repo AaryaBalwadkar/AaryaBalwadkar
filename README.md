@@ -128,11 +128,11 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed 1 commit(s) to [AaryaBalwadkar/DevOps-CA2_2023_27](https://github.com/AaryaBalwadkar/DevOps-CA2_2023_27) <sub>· Oct 04</sub>
-- 🔀 Opened PR #10 in [aditisharmas11/DevOps-CA2_2023_27](https://github.com/aditisharmas11/DevOps-CA2_2023_27) <sub>· Oct 04</sub>
-- 🎉 Created branch `group10-ca2-submission` in [AaryaBalwadkar/DevOps-CA2_2023_27](https://github.com/AaryaBalwadkar/DevOps-CA2_2023_27) <sub>· Oct 04</sub>
-- 🍴 Forked [aditisharmas11/DevOps-CA2_2023_27](https://github.com/aditisharmas11/DevOps-CA2_2023_27) <sub>· Oct 04</sub>
-- 🔨 Pushed 1 commit(s) to [AaryaBalwadkar/AaryaBalwadkar](https://github.com/AaryaBalwadkar/AaryaBalwadkar) <sub>· Oct 02</sub>
+- 🔀 Merged PR #1 in [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 11</sub>
+- 🔀 Opened PR #1 in [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 11</sub>
+- 🔨 Pushed 1 commit(s) to [AaryaBalwadkar/realtime-iot-telemetry](https://github.com/AaryaBalwadkar/realtime-iot-telemetry) <sub>· Oct 09</sub>
+- 🎉 Created branch `main` in [AaryaBalwadkar/malicious-url-detection](https://github.com/AaryaBalwadkar/malicious-url-detection) <sub>· Oct 08</sub>
+- 🔨 Pushed 1 commit(s) to [AaryaBalwadkar/malicious-url-detection](https://github.com/AaryaBalwadkar/malicious-url-detection) <sub>· Oct 08</sub>
 <!--END_SECTION:activity-->
 
 ---
