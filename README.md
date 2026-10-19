@@ -47,10 +47,10 @@
 | [Agri-CNX-Edge](https://github.com/AaryaBalwadkar/Agri-CNX-Edge) | Edge AI for Apple Crop Health | Python | 0 | Sep 21, 2026 |
 | [realtime-iot-telemetry](https://github.com/AaryaBalwadkar/realtime-iot-telemetry) | An end-to-end, containerized IoT sensor telemetry pipeline processing real-time data with Apache... | Python | 0 | Oct 09, 2026 |
 | [Shiksha-Sankalp](https://github.com/AaryaBalwadkar/Shiksha-Sankalp) | Flexi Credit Course CA3 Project | JavaScript | 0 | Nov 16, 2024 |
+| [AgriCNXEdge](https://github.com/AaryaBalwadkar/AgriCNXEdge) | No description provided. | Python | 0 | Oct 12, 2026 |
 | [malicious-url-detection](https://github.com/AaryaBalwadkar/malicious-url-detection) | No description provided. | Python | 0 | Oct 08, 2026 |
 | [volstory](https://github.com/AaryaBalwadkar/volstory) | Volunteer stories platform (TypeScript). | TypeScript | 0 | Sep 29, 2026 |
-| [my-git-practice](https://github.com/AaryaBalwadkar/my-git-practice) | Git practice playground — branching, merges and rebases. | Python | 0 | Jul 22, 2026 |
-<sub>Auto-updated Oct 12, 2026 · featured first, then most recently pushed</sub>
+<sub>Auto-updated Oct 19, 2026 · featured first, then most recently pushed</sub>
 <!--END_SECTION:projects-->
 
 </details>
