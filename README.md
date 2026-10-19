@@ -128,11 +128,11 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-- 🔀 Merged PR #1 in [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 11</sub>
-- 🔀 Opened PR #1 in [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 11</sub>
-- 🔨 Pushed 1 commit(s) to [AaryaBalwadkar/realtime-iot-telemetry](https://github.com/AaryaBalwadkar/realtime-iot-telemetry) <sub>· Oct 09</sub>
-- 🎉 Created branch `main` in [AaryaBalwadkar/malicious-url-detection](https://github.com/AaryaBalwadkar/malicious-url-detection) <sub>· Oct 08</sub>
-- 🔨 Pushed 1 commit(s) to [AaryaBalwadkar/malicious-url-detection](https://github.com/AaryaBalwadkar/malicious-url-detection) <sub>· Oct 08</sub>
+- 🔀 Merged PR #16 in [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 18</sub>
+- 🎉 Created branch `feat/validate-M2` in [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 15</sub>
+- 🔨 Pushed 1 commit(s) to [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 15</sub>
+- 🔀 Merged PR #14 in [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 15</sub>
+- 🔀 Opened PR #16 in [Aditi22Bansal/Aspire_Higher_BuyWise](https://github.com/Aditi22Bansal/Aspire_Higher_BuyWise) <sub>· Oct 15</sub>
 <!--END_SECTION:activity-->
 
 ---
