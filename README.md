@@ -47,10 +47,10 @@
 | [Agri-CNX-Edge](https://github.com/AaryaBalwadkar/Agri-CNX-Edge) | Edge AI for Apple Crop Health | Python | 0 | Sep 21, 2026 |
 | [realtime-iot-telemetry](https://github.com/AaryaBalwadkar/realtime-iot-telemetry) | An end-to-end, containerized IoT sensor telemetry pipeline processing real-time data with Apache... | Python | 0 | Oct 09, 2026 |
 | [Shiksha-Sankalp](https://github.com/AaryaBalwadkar/Shiksha-Sankalp) | Flexi Credit Course CA3 Project | JavaScript | 0 | Nov 16, 2024 |
-| [cart-platform](https://github.com/AaryaBalwadkar/cart-platform) | No description provided. | Python | 0 | Oct 26, 2026 |
+| [cart-platform](https://github.com/AaryaBalwadkar/cart-platform) | No description provided. | Dockerfile | 0 | Oct 26, 2026 |
 | [paynotify-devops-lab](https://github.com/AaryaBalwadkar/paynotify-devops-lab) | No description provided. | Python | 0 | Oct 26, 2026 |
 | [devops-practice](https://github.com/AaryaBalwadkar/devops-practice) | No description provided. | Python | 0 | Oct 24, 2026 |
-<sub>Auto-updated Oct 26, 2026 · featured first, then most recently pushed</sub>
+<sub>Auto-updated Nov 02, 2026 · featured first, then most recently pushed</sub>
 <!--END_SECTION:projects-->
 
 </details>
