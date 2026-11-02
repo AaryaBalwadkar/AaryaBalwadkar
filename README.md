@@ -128,11 +128,11 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-- 🎉 Created branch `main` in [AaryaBalwadkar/paynotify-devops-lab](https://github.com/AaryaBalwadkar/paynotify-devops-lab) <sub>· Oct 25</sub>
-- 🔨 Pushed 1 commit(s) to [AaryaBalwadkar/paynotify-devops-lab](https://github.com/AaryaBalwadkar/paynotify-devops-lab) <sub>· Oct 25</sub>
-- 🎉 Created branch `release-v1.0` in [AaryaBalwadkar/paynotify-devops-lab](https://github.com/AaryaBalwadkar/paynotify-devops-lab) <sub>· Oct 25</sub>
-- 🎉 Created branch `main` in [AaryaBalwadkar/devops-practice](https://github.com/AaryaBalwadkar/devops-practice) <sub>· Oct 24</sub>
-- 🎉 Created branch `release-v1.0` in [AaryaBalwadkar/devops-practice](https://github.com/AaryaBalwadkar/devops-practice) <sub>· Oct 24</sub>
+- 🔨 Pushed 1 commit(s) to [AaryaBalwadkar/cart-platform](https://github.com/AaryaBalwadkar/cart-platform) <sub>· Oct 26</sub>
+- 🎉 Created branch `main` in [AaryaBalwadkar/cart-platform](https://github.com/AaryaBalwadkar/cart-platform) <sub>· Oct 26</sub>
+- 🎉 Created branch `feature/SCRUM-1-feature-1` in [AaryaBalwadkar/paynotify-devops-lab](https://github.com/AaryaBalwadkar/paynotify-devops-lab) <sub>· Oct 26</sub>
+- 🎉 Created branch `update/CART-10-inventory` in [AaryaBalwadkar/cart-platform](https://github.com/AaryaBalwadkar/cart-platform) <sub>· Oct 26</sub>
+- 🎉 Created branch `release-cart-v1` in [AaryaBalwadkar/cart-platform](https://github.com/AaryaBalwadkar/cart-platform) <sub>· Oct 26</sub>
 <!--END_SECTION:activity-->
 
 ---
